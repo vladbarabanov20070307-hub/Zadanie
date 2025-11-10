@@ -2,3 +2,8 @@ body{
     background-color: blueviolet;
     padding: 50px;
 }
+
+h1{
+    font-size: 500%;
+    color: red;
+}
